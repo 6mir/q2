@@ -1,0 +1,64 @@
+{
+  "artic": [
+    {
+      "id": "tomaj",
+      "image": "picture/1-tomaj.jpg",
+      "title": "توماج صالحی"
+    },
+    {
+      "id": "najafi",
+      "image": "picture/2-ajafi.jpg",
+      "title": "شاهین نجفی"
+    },
+    {
+      "id": "sorena",
+      "image": "picture/3-sorena.jpg",
+      "title": "سورنا"
+    },
+    {
+      "id": "hichkas",
+      "image": "picture/4-hichkas.jpg",
+      "title": "سروش هیچکس"
+    },
+    {
+      "id": "yas",
+      "image": "picture/5-yas.jpg",
+      "title": "یاس"
+    },
+    {
+      "id": "reza",
+      "image": "picture/6-reza.jpg",
+      "title": "رضا پیشرو"
+    },
+    {
+      "id": "fadaei",
+      "image": "picture/7-fadaei.jpg",
+      "title": "فدایی"
+    },
+    {
+      "id": "hosein",
+      "image": "picture/8-hosein.jpg",
+      "title": "حصین"
+    },
+    {
+      "id": "shervin",
+      "image": "picture/9-shervin.jpg",
+      "title": "شروین"
+    },
+    {
+      "id": "bahnam",
+      "image": "picture/10-bahnam.jpg",
+      "title": "بهرام"
+    },
+    {
+      "id": "khelvat",
+      "image": "picture/11-khelvat.jpg",
+      "title": "امیر خلوت"
+    },
+    {
+      "id": "putak",
+      "image": "picture/12-putak.jpg",
+      "title": "پوریا پوتک"
+    }
+  ]
+}

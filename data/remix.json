@@ -1,0 +1,116 @@
+{
+  "remixes": [
+    {
+      "id": 1,
+      "title": "آهنگ 1",
+      "artist": "ریمیکس",
+      "image": "picture/1-omaj.jpg",
+      "file": "zz.mp3"
+    },
+    {
+      "id": 2,
+      "title": "آهنگ 2",
+      "artist": "ریمیکس",
+      "image": "picture/2-najafi.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 3,
+      "title": "آهنگ 3",
+      "artist": "ریمیکس",
+      "image": "picture/3-sorena.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 4,
+      "title": "آهنگ 4",
+      "artist": "ریمیکس",
+      "image": "picture/4-hichkas.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 5,
+      "title": "آهنگ 5",
+      "artist": "ریمیکس",
+      "image": "picture/5-yas.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 6,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 7,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 8,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 9,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 10,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 11,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 12,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 13,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 14,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 15,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    },
+    {
+      "id": 16,
+      "title": "آهنگ 6",
+      "artist": "ریمیکس",
+      "image": "picture/6-reza.jpg",
+      "file": "z.mp3"
+    }
+  ]
+}

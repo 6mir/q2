@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+  <head>
+    <title>ایران موزیک | رپ فارس</title>
+    <meta
+      charset="UTF-8"
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      main .tltle-main-1 .title a {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <header></header>
+
+    <main>
+      <div id="main-1" class="tltle-main-1"></div>
+      <div id="main-2"></div>
+      <div id="main-3"></div>
+    </main>
+
+    <footer></footer>
+
+    <div id="error-modal"></div>
+
+    <div id="player">
+      <div class="audio-player">
+        <div class="right">
+          <div class="img">
+            <img id="player-img" src="" onerror="setFallbackImage(this)" />
+          </div>
+          <div class="text">
+            <p id="player-title" class="title"></p>
+            <p id="player-singer" class="artist"></p>
+          </div>
+        </div>
+
+        <div class="left">
+          <div class="time">
+            <span id="current-time" class="col"></span
+            ><span class="vasat">/</span
+            ><span id="total-time" class="hal"></span>
+          </div>
+          <input type="range" id="progress-range" min="0" max="100" value="0" />
+          <img
+            src="svg/s.svg"
+            id="play-btn"
+            onclick="togglePlay()"
+            class="play-1"
+          />
+          <img
+            src="svg/p.svg"
+            id="play-btn"
+            onclick="togglePlay()"
+            class="stop-1"
+            style="display: none"
+          />
+        </div>
+      </div>
+      <audio id="audio"></audio>
+    </div>
+
+    <script src="js/hed-fot.js"></script>
+    <script src="js/html-cod.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/player.js"></script>
+  </body>
+</html>
