@@ -1,4 +1,4 @@
-OnerrordefaultImage = "/eror-img.png";
+OnerrordefaultImage = "https://raw.githubusercontent.com/6mir/q2/refs/heads/main/eror-img.png";
 
 const createCardTemplate = (item) => `
   <div class="item">
